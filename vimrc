@@ -1,3 +1,4 @@
+call pathogen#infect()
 filetype plugin indent on
 syntax on
 match ErrorMsg '\%>80v.\+'
