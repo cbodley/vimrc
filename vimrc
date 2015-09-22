@@ -5,4 +5,4 @@ match ErrorMsg '\%>80v.\+'
 colorscheme default
 set modeline
 set nohlsearch
-set tags=.tags/;
+set tags=./tags;
