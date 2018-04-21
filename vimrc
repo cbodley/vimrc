@@ -10,3 +10,6 @@ set modeline
 set nohlsearch
 " search parent directories for ctags
 set tags=./tags;
+" show tabs as '▸'
+set list
+set listchars=tab:▸\ 
