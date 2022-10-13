@@ -7,3 +7,9 @@
 [submodule "extras/google.vim"]
 	path = extras/google.vim
 	url = https://github.com/vim-scripts/google.vim
+[submodule "bundle/async.vim"]
+	path = bundle/async.vim
+	url = https://github.com/prabirshrestha/async.vim
+[submodule "bundle/vim-lsp"]
+	path = bundle/vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp
